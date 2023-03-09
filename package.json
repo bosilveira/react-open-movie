@@ -13,6 +13,7 @@
     "@types/react-dom": "^18.0.11",
     "@ui5/webcomponents": "^1.11.0",
     "@ui5/webcomponents-fiori": "^1.11.0",
+    "@ui5/webcomponents-icons": "^1.11.0",
     "@ui5/webcomponents-react": "^1.10.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -44,5 +45,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.3",
+    "sass-loader": "^13.2.0"
   }
 }
