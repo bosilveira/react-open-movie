@@ -1,0 +1,28 @@
+@import '../../App.scss';
+
+.search {
+    max-width: 1024px;
+    padding: 0 96px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 0 auto;
+    gap: 24px;
+
+    .title {
+        gap: 24px;
+        text-align: center;
+    }
+
+    ui5-button {
+        width: 192px;
+    }
+    ui5-input {
+        width: 100%;
+    }
+
+    .search-bar {
+        gap: 24px;
+    }
+  }
