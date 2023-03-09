@@ -1,0 +1,16 @@
+@import '../../App.scss';
+
+footer {
+    width: 100%;
+    height: $footer-height;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: #2A3439; // gunmetal
+    color: white;
+    .disclaimer {
+        color: white;
+    }
+}
