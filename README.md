@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Teste Técnico NTT DATA
+
+Esta aplicação permite aos usuários buscar e exibir informações sobre filmes, onde o usuário pode pesquisar um filme por título. Uma vez que o usuário encontra o filme desejado, a aplicação exibe informações básicas sobre o filme, incluindo o título, sinopse, atores, avaliação e imagem do poster.
+
+A aplicação foi construída usando React e Redux, o que significa que é uma aplicação baseada em componentes. Cada componente é responsável por uma parte da aplicação, tornando-a mais escalável.
+
+Além disso, a aplicação usa a API do Open Movie Database para obter informações sobre os filmes. A API fornece informações abrangentes sobre filmes de todo o mundo, tornando a aplicação mais útil.
+
+Em suma, esta aplicação SPA usando React Redux e a API do Open Movie Database oferece aos usuários um meio fácil e intuitivo de buscar e exibir informações sobre filmes. O usuário pode obter informações básicas sobre o filme e ver o trailer e outras informações do filme. Além disso, a aplicação é construída usando componentes, tornando-a mais escalável. Finalmente, o usuário tem acesso às informações de filmes de todo o mundo graças à API do Open Movie Database.
+
+## Agradecimentos
+
+Obrigado por ler a documentação! Sou Bráulio Silveira, meu perfil no LinkedIn é https://www.linkedin.com/in/bosilveira/ e sou um desenvolvedor full stack.
+
+---
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
 
